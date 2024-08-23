@@ -2,7 +2,7 @@
 
 - **Código:** ICML 075-2024
 - **Docente responsable:** Luis Alberto Gómez Parada (luis.gomez@uach.cl)
-- **Horario:** Viernes 8:30 a 11:30
+- **Horario:** Viernes 8:30 a 10:00
 - **Año y semestre:** 2024, segundo semestre
 
 ## Antecedentes de la Asignatura
